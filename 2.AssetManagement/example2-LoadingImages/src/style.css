@@ -1,0 +1,14 @@
+.hello {
+    font-size: 100px;
+    color: #2196f3;
+    text-align: center;
+    padding: 200px 0;
+    text-shadow: 1px 1px 3px #333;
+}
+.hello img {
+    width: 70px;
+}
+body {
+    background: url(./icon.png) no-repeat center center;
+    background-size: 20%;
+}
